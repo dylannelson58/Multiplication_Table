@@ -5,7 +5,7 @@ Option Explicit On
 'RCET0265
 'Spring 2021
 'Multiplication Table
-'https://github.com/dylannelson58/Mulitiplication_Table
+'https://github.com/dylannelson58/MulitiplicationTable
 
 Module Multiplication_Table
 
@@ -13,7 +13,7 @@ Module Multiplication_Table
         Dim firstNumber As Integer
         Dim secondNumber As Integer
         Dim table As String
-        Dim problem As Boolean
+
 
         Console.WriteLine($"Enter the first number for your multiplication table.")
         firstNumber = CInt(Console.ReadLine())
