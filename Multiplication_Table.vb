@@ -5,7 +5,7 @@ Option Explicit On
 'RCET0265
 'Spring 2021
 'Multiplication Table
-'https://github.com/dylannelson58/MulitiplicationTable
+'https://github.com/dylannelson58/Mulitiplication_Table
 
 Module Multiplication_Table
 
